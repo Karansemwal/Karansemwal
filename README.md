@@ -3,7 +3,7 @@
 <!--
 **Karansemwal/Karansemwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## I am Karan Semwal , I love to solve real-world problems and have keen interest in Problem solving, Programming and Open-Source .
+## I am Karan Semwal , I love to solve real-world problems and have keen interest in Programming and Open-Source .
 
 
 - 🔭 I’m currently working on my **Skills**
