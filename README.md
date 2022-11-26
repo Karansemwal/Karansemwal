@@ -33,7 +33,7 @@
 ---
 
 
-## Let's connect
+## Let's get connected
 
 [ ![](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Karansemwal6)
 [ ![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/karan-semwal-028605226/)
