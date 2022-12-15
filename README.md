@@ -27,7 +27,7 @@
 ## Tech Stack & Tools
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,c,cpp,markdown,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,c,cpp,markdown,git,github,vscode,visualstudio)](https://skillicons.dev)
 
 
 ---
